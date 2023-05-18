@@ -4,5 +4,5 @@ These are my assignments, projects, machine problems, etc. that I've made throug
 ## Project Name Format
 XYXS - Subject - Name of Project
 * X = Number
-* XY = Year Level (1st, 2nd, 3rd)
-* XS = Semester (1st, 2nd)
+* XY = (1st, 2nd, or 3rd) Year Level
+* XS = (1st or 2nd) Semester

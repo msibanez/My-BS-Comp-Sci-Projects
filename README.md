@@ -1,5 +1,5 @@
 ## About
-These are my assignments, projects, machine problems, etc. that I've made/contributed throughout the course so far.  
+These are my assignments, projects, machine problems, etc. that I've made throughout the course so far.  
 
 ## Project Name Format
 XYXS - Subject - Name of Project
